@@ -42,14 +42,6 @@ The date on which a customer clears the payment for an invoice is called the pay
 - Get a `prediction` of when the invoice is going to get paid.
 
 
-## Guide through the project
-- [CODE FOR CLIENT(Using ReactJS)](client/src/)  
-- [CODE FOR SERVER(Using JAVA)](server/src/main/java/crud/)  
-- [Code ML(Using Jupyter Notebook - Python)](ml/HRC62283WK_RUDRASHIS_DUTTA_prediction.ipynb)  
-- [DATASET](ml/dataset.csv?raw=true)  
-- [OUTPUT DATASET ACQUIRED AFTER PERFORMING ML](ml/HRC62283WK_RUDRASHIS_DUTTA.csv?raw=true)  
-- [SQL SETUP](database/H2H_Internship.sql?raw=true)
-
 ## Tools Used
 - [Visual Studio Code](https://code.visualstudio.com/): `Visual Studio Code` was used for developing the front end of the web application using reactJS.  
 - [Node.JS](https://nodejs.org/en/), [create_react_app](https://create-react-app.dev/): `Node.js` is an open-source, cross-platform, 
