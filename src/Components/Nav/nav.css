@@ -1,0 +1,10 @@
+nav{
+    background-color:rgb(45,66,80);
+    }
+    #logo{
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    img{
+        height: 70px;
+    }
