@@ -27,7 +27,6 @@ The date on which a customer clears the payment for an invoice is called the pay
 - To build a `Full-stack Invoice Management Application` using `ReactJS`, `JDBC`, `Java`, `Servlets`. 
 - Build a `responsive Receivables Dashboard`.
 - `Visualize Data` in the form of `grids`. 
-- `Visualize Data` in the form of `graphs`. 
 - Perform `Searching` operations on the invoices. 
 - `Add` & `Edit` data in the editable fields of the grid. 
 - `Delete` data of selected rows in predefined templates. 
